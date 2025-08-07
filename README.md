@@ -1,3 +1,5 @@
+# Global Health Statistics 
+
 This project presents a comprehensive analysis of a large-scale global health dataset using **SQL Server Management Studio (SSMS)**. With over **1 million rows** and **22 fields**, the dataset offers valuable insights into global health indicators—ranging from disease prevalence and mortality rates to hospital infrastructure and healthcare outcomes. The analysis helps pinpoint the most affected country, uncover root causes, and propose practical remedies.
 
 ---
